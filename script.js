@@ -15,5 +15,4 @@ if (html.classList.contains("light")) {
    img.setAttribute("alt", "Pedro sorrindo, está vestido com um casaco preto com capuz listra no olho, fundo de código binario")
 }
 
-
 }
