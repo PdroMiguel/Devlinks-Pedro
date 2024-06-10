@@ -32,9 +32,8 @@ body {
 
 #container {
   width: 100%;
-  max-width: 588px; /* largura da caixa*/
-  /*border: 1px solid red; /* tamanho da borda, caixa sólida e vermelha*/
-  margin: 56px auto 0px; /*margin-right: auto; alinhar no meio*/ /*margin-left: auto; ou margin: auto;*/
+  max-width: 588px;
+  margin: 56px auto 0px; 
   padding: 0px 24px;
 }
 
